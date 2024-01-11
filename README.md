@@ -113,5 +113,5 @@ API_SECRET="CLOUDINARY_API_SECRET"
 
 # Author
 
-Developer: [Hasibul Islam](https://devhasibulislam.vercel.app/)
-Designer: [Sadia Khanum](https://www.facebook.com/devsadiakhan)
+Developer: [Partho Banik](https://devhasibulislam.vercel.app/)
+Designer: [Bonna Sarker](https://www.facebook.com/devsadiakhan)
